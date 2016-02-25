@@ -8,3 +8,13 @@ div {
     padding: 30px;
     border: 1px solid black;
     margin: 25px;
+}
+
+body{
+    background-color: #d6d6c2;
+}
+
+a: link {
+  color: black
+a: hover {
+   color: white;
