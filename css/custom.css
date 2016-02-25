@@ -19,7 +19,11 @@ div {
 }
 
 body{
-    background-color: #d6d6c2;
+    padding: 20px
+    margin: 0px
+    line-height: 10px
+    color: #000000
+    background-color: #adad85 ;
 }
 
 /* unvisited link*/
