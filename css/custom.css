@@ -5,11 +5,10 @@
 
 h1 {
   font-size:35px;
-  padding: 32px;
-  margin:27px;
+  text-align: center;
 }
 small {
-  font-size: 10px;
+  font-size: 13px;
 }
 div {
     width: 435px;
