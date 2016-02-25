@@ -17,6 +17,7 @@ body{
 /* unvisited link*/
 a:link {
   color: black
+  text-decoration: none
 }
 
 /* mouse over link*/
@@ -24,6 +25,3 @@ a:hover {
    color: white;
 }
 
-h1 {
-  text-decoration: none
-}
