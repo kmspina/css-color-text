@@ -14,9 +14,9 @@ body{
     background-color: #d6d6c2;
 }
 
-a: link {
+a:link {
   color: black
 }
-a: hover {
+a:hover {
    color: white;
 }
