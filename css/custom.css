@@ -4,10 +4,12 @@
 /*insert custom css below*/
 
 h1 {
-  font-size:30px;
+  font-size:35px;
+  padding: 32px;
+  margin:27px;
 }
 small {
-  font-size: 15px;
+  font-size: 10px;
 }
 div {
     width: 435px;
