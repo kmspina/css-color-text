@@ -4,7 +4,7 @@
 /*insert custom css below*/
 
 div {
-    width: 400px;
+    width: 450px;
     padding: 30px;
     border: 2px solid black;
     margin: 25px;
@@ -16,7 +16,7 @@ body{
 
 /* unvisited link*/
 a:link {
-  color: black;
+  color: black
 }
 
 /* mouse over link*/
