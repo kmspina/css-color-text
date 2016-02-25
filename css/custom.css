@@ -2,3 +2,9 @@
   box-sizing: border-box; }
 
 /*insert custom css below*/
+
+div {
+    width: 300px;
+    padding: 25px;
+    border: 25px solid black;
+    margin: 25px;
